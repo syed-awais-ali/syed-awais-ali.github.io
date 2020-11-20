@@ -6293,7 +6293,7 @@ button.bg-dark:focus {
 }
 
 .rounded-circle {
-  border-radius: 50% !important;
+  border-radius: 10% !important;
 }
 
 .rounded-pill {
@@ -10063,7 +10063,7 @@ p.lead {
   }
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
-    max-height: 10rem;
+    max-height: 14rem;
   }
   #sideNav .navbar-collapse {
     display: flex;
